@@ -17,20 +17,20 @@
     --body-font-size: 14px;
     --code-font-size: 14px;
     /* Text colors for body and block elements */
-    --body-text-color: #353833;
-    --block-text-color: #474747;
+    --body-text-color: #000000;
+    --block-text-color: #000000;
     /* Background colors for various structural elements */
-    --body-background-color: #ffffff;
+    --body-background-color: #f1f5f9;
     --section-background-color: #f8f8f8;
     --detail-background-color: #ffffff;
     /* Colors for navigation bar and table captions */
-    --navbar-background-color: #4D7A97;
-    --navbar-text-color: #ffffff;
+    --navbar-background-color:  #1e293b;
+    --navbar-text-color:  #ffffff;
     /* Background color for subnavigation and various headers */
     --subnav-background-color: #dee3e9;
     /* Background and text colors for selected tabs and navigation items */
-    --selected-background-color: #f8981d;
-    --selected-text-color: #253441;
+    --selected-background-color:  #38bdf8;
+    --selected-text-color: #0f172a;
     --selected-link-color: #1f389c;
     /* Background colors for generated tables */
     --even-row-color: #ffffff;
@@ -38,8 +38,8 @@
     /* Text color for page title */
     --title-color: #2c4557;
     /* Text colors for links */
-    --link-color: #4A6782;
-    --link-color-active: #bb7a2a;
+    --link-color:#2563eb;
+    --link-color-active: #1d4ed8;
     /* Snippet colors */
     --snippet-background-color: #ebecee;
     --snippet-text-color: var(--block-text-color);
